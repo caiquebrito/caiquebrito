@@ -9,7 +9,7 @@
   <img align="center" alt="Caique-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Caique-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Caique-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="right" alt="Caique-pic" height="150" style="border-radius:50px;" src="https://github.com/caiquebrito/caiquebrito/blob/main/download20221202082903.png?width=676&height=676">
+  <img align="right" alt="Caique-Pic" height="150" style="border-radius:50px;" src="https://github.com/caiquebrito/caiquebrito/blob/main/download20221202082903.png?width=676&height=676">
 </div>
   
   ##
