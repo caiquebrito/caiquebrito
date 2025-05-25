@@ -1,4 +1,4 @@
-### Hi there, my name is Caique Brito 👋
+### Hi there, my name is Caique Brito 👋 I'm a 30y Software Developer, mainly on Android development, a gamer, astronomy lover and a automobile enthusiast, feel free to send a mensage or make contribution on my repositories, peace ✌️
 <div align="center">
   <a href="https://github.com/caiquebrito">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiquebrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
