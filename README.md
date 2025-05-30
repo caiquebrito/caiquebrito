@@ -1,5 +1,5 @@
 ### Hi there, my name is Caique Brito 👋
-## I'm a Android Developer and an automobile enthusiast, i'm always learning new things in the mobile universe, and other random things, like astronomy, mechanical engineering, etc, feel free to see my work and personal projects, if you feel comfortable, make contribution on any of mine repositories, peace ✌️
+I'm a Android Developer and an automobile enthusiast, i'm always learning new things in the mobile universe, and other random things, like astronomy, mechanical engineering, etc, feel free to see my work and personal projects, if you feel comfortable, make contribution on any of mine repositories, peace ✌️
 <div align="center">
   <a href="https://github.com/caiquebrito">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiquebrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
